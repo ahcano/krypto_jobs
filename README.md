@@ -24,6 +24,9 @@
 ###
 <img width="230" alt="Screenshot 2024-01-17 074521" src="https://github.com/ahcano/krypto_jobs/assets/141194281/d12545a1-f390-4356-9b49-5ddcbb3c525e">
 
+### Validated Transaction
+<img width="1545" alt="Screenshot 2024-01-17 184954" src="https://github.com/ahcano/krypto_jobs/assets/141194281/72e19165-cd49-4ce1-916d-fbd8551d5365">
+
 ## Usage
 The code was developed using Python and Ganache.
 
