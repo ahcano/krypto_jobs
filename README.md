@@ -1,19 +1,26 @@
-## Objective: Assuming the role of a KryptoJobs2Go customer, an Ethereum transaction is created to pay a KryptoJobs2Go candidate for their work.
+![19-4-challenge-image](https://github.com/ahcano/krypto_jobs/assets/141194281/76193921-b0f6-43c4-a246-d54fc1fc71e6)
+## The objective of this initiative is to assume the role of a KryptoJobs2Go client, where Ethereum transactions are created to pay KryptoJobs2Go Fintech professionals for their work.
++ The code was developed using Python and Ganache. **crypto_wallet_assignment.py** contains Ethereum transaction functions; the Python script is integrated into the KryptoJobs2Go interface program found in the **krypto_jobs.py** file. <br>
++ A database was created with the details of four **Fintech professionals**; the candidates name, hourly rate and ethereum address to receive payments. <br> 
 
-## Data Preparation: Sample data showing Applicant Data
+## Client Account 
++ A Client Ethereum account was created using a **mnemonic** seed and linked through Ganache. 
++ The mnemonic generated in Ganache was saved on the **.ENV** file.<br>
 
-## Results
-### Mnemonic generated in Ganache saved on the .ENV file:
-<img width="1117" alt="Screenshot 2024-01-17 182303" src="https://github.com/ahcano/krypto_jobs/assets/141194281/3c3439e1-496d-447d-8500-3c8c225ca381">
+<img width="1117" alt="Screenshot 2024-01-17 182303" src="https://github.com/ahcano/krypto_jobs/assets/141194281/3c3439e1-496d-447d-8500-3c8c225ca381"> <br>
 
-### Customer Ethereum account address from Ganache:
+
++ The following image shows the Client account **address** and **balance** of 100 Ethereum. <br>
 <img width="1128" alt="Screenshot 2024-01-16 214456" src="https://github.com/ahcano/krypto_jobs/assets/141194281/3aa3890a-b28e-420a-ae29-dd2a196d8c45">
+
+
 
 ### From the Python terminal, the following command was executed: streamlit run krypto_jobs.py - opening the Streamlit page.
 
 ### Candidate details, hourly rate
 <img width="788" alt="Screenshot 2024-01-16 214638" src="https://github.com/ahcano/krypto_jobs/assets/141194281/f0718bf8-a1dc-41a7-8641-247d89f4d942">
 
+# Sidebar Results
 ### 
 <img width="799" alt="Screenshot 2024-01-16 223023" src="https://github.com/ahcano/krypto_jobs/assets/141194281/ebbd8d4c-10a1-46a3-9ba3-48b70127a8e5">
 
@@ -37,7 +44,6 @@
 
 
 ## Usage
-The code was developed using Python and Ganache.
 
 ## Contributor
 Ana Cano - Author  
