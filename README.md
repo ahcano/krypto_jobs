@@ -1,7 +1,7 @@
 ![19-4-challenge-image](https://github.com/ahcano/krypto_jobs/assets/141194281/76193921-b0f6-43c4-a246-d54fc1fc71e6)
 ## The objective of this initiative is to assume the role of a KryptoJobs2Go client, where Fintech professionals are paid through Ethereum transactions for their work and blockchain transactions are validated.
 + The code was developed using Python and Ganache. **crypto_wallet_assignment.py** contains Ethereum transaction functions; the Python script is integrated into the KryptoJobs2Go interface program found in the **krypto_jobs.py** file. <br>
-+ A database was created with the details of four **Fintech professionals**; the candidates name, hourly rate and ethereum address to receive payments are displayed on the **KryptoJobs2Go!** Streamlit page.<br> 
++ A database was created with the details of four **Fintech professionals**; the candidates name, hourly rate and ethereum address to receive payments are displayed on the **KryptoJobs2Go!** application.<br> 
 <p align="center"><img width="417" alt="Screenshot 2024-01-16 214638 - Copy" src="https://github.com/ahcano/krypto_jobs/assets/141194281/d1fa0280-30fa-4f3c-b4b7-f4a123287bd7"></p>
 
 ## Client Account 
