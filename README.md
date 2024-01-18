@@ -21,9 +21,9 @@
 
 ## Total wage in Ether
 + Prior to submitting the payment **transaction**, the Client can get an estimate based on the candidate wage and hours required.<br>
-<img width="239" alt="Screenshot 2024-01-17 072624" src="https://github.com/ahcano/krypto_jobs/assets/141194281/a207baaf-7a38-49cd-b47d-e32d7a2d7464">
-<img width="236" alt="Screenshot 2024-01-17 074459" src="https://github.com/ahcano/krypto_jobs/assets/141194281/84a0d809-d749-44f4-a6e9-3a25e7bd8650">
-<img width="230" alt="Screenshot 2024-01-17 074521" src="https://github.com/ahcano/krypto_jobs/assets/141194281/d12545a1-f390-4356-9b49-5ddcbb3c525e">
+![]<img width="239" alt="Screenshot 2024-01-17 072624" src="https://github.com/ahcano/krypto_jobs/assets/141194281/a207baaf-7a38-49cd-b47d-e32d7a2d7464">
+![]<img width="236" alt="Screenshot 2024-01-17 074459" src="https://github.com/ahcano/krypto_jobs/assets/141194281/84a0d809-d749-44f4-a6e9-3a25e7bd8650">
+![]<img width="230" alt="Screenshot 2024-01-17 074521" src="https://github.com/ahcano/krypto_jobs/assets/141194281/d12545a1-f390-4356-9b49-5ddcbb3c525e">
 
 ### Validated Transaction
 + By clicking **send transaction**, the indication that the payment was successful is through the **validated transaction hash** shown on the screen, and balloons popping up on the screen.
