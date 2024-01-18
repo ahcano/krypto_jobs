@@ -9,13 +9,11 @@
 
 <img width="1117" alt="Screenshot 2024-01-17 182303" src="https://github.com/ahcano/krypto_jobs/assets/141194281/3c3439e1-496d-447d-8500-3c8c225ca381"> <br>
 
-
 + The following image shows the Client account **address** and **balance** of 100 Ethereum. <br>
 <img width="1128" alt="Screenshot 2024-01-16 214456" src="https://github.com/ahcano/krypto_jobs/assets/141194281/3aa3890a-b28e-420a-ae29-dd2a196d8c45">
 
-
-
-### From the Python terminal, the following command was executed: streamlit run krypto_jobs.py - opening the Streamlit page.
+## Execution
+A Streamlit page opens by running the following command on the Python terminal: streamlit run krypto_jobs.py 
 
 ### Candidate details, hourly rate
 <img width="788" alt="Screenshot 2024-01-16 214638" src="https://github.com/ahcano/krypto_jobs/assets/141194281/f0718bf8-a1dc-41a7-8641-247d89f4d942">
