@@ -1,7 +1,8 @@
 ![19-4-challenge-image](https://github.com/ahcano/krypto_jobs/assets/141194281/76193921-b0f6-43c4-a246-d54fc1fc71e6)
-## The objective of this initiative is to assume the role of a KryptoJobs2Go client, where Ethereum transactions are created to pay KryptoJobs2Go Fintech professionals for their work.
+## The objective of this initiative is to assume the role of a KryptoJobs2Go client, where Fintech professionals are paid through Ethereum transactions for their work and blockchain transactions are validated.
 + The code was developed using Python and Ganache. **crypto_wallet_assignment.py** contains Ethereum transaction functions; the Python script is integrated into the KryptoJobs2Go interface program found in the **krypto_jobs.py** file. <br>
-+ A database was created with the details of four **Fintech professionals**; the candidates name, hourly rate and ethereum address to receive payments. <br> 
++ A database was created with the details of four **Fintech professionals**; the candidates name, hourly rate and ethereum address to receive payments are displayed on the **KryptoJobs2Go!** webpage.<br> 
+<p align="center"><img width="417" alt="Screenshot 2024-01-16 214638 - Copy" src="https://github.com/ahcano/krypto_jobs/assets/141194281/d1fa0280-30fa-4f3c-b4b7-f4a123287bd7"></p>
 
 ## Client Account 
 + A Client Ethereum account was created using a **mnemonic** seed and linked through Ganache. 
@@ -13,10 +14,9 @@
 <img width="1128" alt="Screenshot 2024-01-16 214456" src="https://github.com/ahcano/krypto_jobs/assets/141194281/3aa3890a-b28e-420a-ae29-dd2a196d8c45">
 
 ## Execution
-A Streamlit page opens by running the following command on the Python terminal: streamlit run krypto_jobs.py 
-
-### Candidate details, hourly rate
-<img width="788" alt="Screenshot 2024-01-16 214638" src="https://github.com/ahcano/krypto_jobs/assets/141194281/f0718bf8-a1dc-41a7-8641-247d89f4d942">
++ A Streamlit page opens by running the following command on the Python terminal: streamlit run krypto_jobs.py
++ The Client account address and balance appear on the left sidebar
++ A Client can select a candidate and a wage is calculated based on the hourly rate and hours required.
 
 # Sidebar Results
 ### 
