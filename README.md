@@ -9,6 +9,8 @@
 ### Customer Ethereum account address from Ganache:
 <img width="1128" alt="Screenshot 2024-01-16 214456" src="https://github.com/ahcano/krypto_jobs/assets/141194281/3aa3890a-b28e-420a-ae29-dd2a196d8c45">
 
+### From the Python terminal, the following command was executed: streamlit run krypto_jobs.py - opening the Streamlit page.
+
 ### Candidate details, hourly rate
 <img width="788" alt="Screenshot 2024-01-16 214638" src="https://github.com/ahcano/krypto_jobs/assets/141194281/f0718bf8-a1dc-41a7-8641-247d89f4d942">
 
@@ -26,6 +28,13 @@
 
 ### Validated Transaction
 <img width="1545" alt="Screenshot 2024-01-17 184954" src="https://github.com/ahcano/krypto_jobs/assets/141194281/72e19165-cd49-4ce1-916d-fbd8551d5365">
+
+### Account Balance 
+<img width="881" alt="Screenshot 2024-01-17 185650" src="https://github.com/ahcano/krypto_jobs/assets/141194281/88d576ec-faf5-4b10-8235-4ccd59a4795c">
+
+### Transactions
+<img width="889" alt="Screenshot 2024-01-17 185701" src="https://github.com/ahcano/krypto_jobs/assets/141194281/2dfa2d02-dddc-4582-bf3a-299e7cde2987">
+
 
 ## Usage
 The code was developed using Python and Ganache.
